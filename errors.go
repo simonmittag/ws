@@ -52,3 +52,7 @@ type RejectConnectionErrorType struct {
 func (r *RejectConnectionErrorType) Error() string {
 	return r.reason
 }
+
+func (r *RejectConnectionErrorType) Code() int {
+	return r.code
+}
