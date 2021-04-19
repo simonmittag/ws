@@ -9,7 +9,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/gobwas/ws"
+	"github.com/simonmittag/ws"
 )
 
 // TODO(gobwas): test NewWriterSize on edge cases for offset.

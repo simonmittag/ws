@@ -52,8 +52,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/gobwas/ws"
-	"github.com/gobwas/ws/wsutil"
+	"github.com/simonmittag/ws"
+	"github.com/simonmittag/ws/wsutil"
 )
 
 func main() {
@@ -88,8 +88,8 @@ import (
 	"net/http"
 	"io"
 
-	"github.com/gobwas/ws"
-	"github.com/gobwas/ws/wsutil"
+	"github.com/simonmittag/ws"
+	"github.com/simonmittag/ws/wsutil"
 )
 
 func main() {
@@ -169,7 +169,7 @@ import (
 	"net"
 	"io"
 
-	"github.com/gobwas/ws"
+	"github.com/simonmittag/ws"
 )
 
 func main() {
@@ -243,7 +243,7 @@ import (
 	"net"
 	"log"
 
-	"github.com/gobwas/ws"
+	"github.com/simonmittag/ws"
 )
 
 func main() {
@@ -291,7 +291,7 @@ import (
 	"runtime"
 
 	"github.com/gobwas/httphead"
-	"github.com/gobwas/ws"
+	"github.com/simonmittag/ws"
 )
 
 func main() {
@@ -372,8 +372,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/gobwas/ws"
-	"github.com/gobwas/ws/wsflate"
+	"github.com/simonmittag/ws"
+	"github.com/simonmittag/ws/wsflate"
 )
 
 func main() {
