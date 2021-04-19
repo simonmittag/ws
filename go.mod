@@ -1,4 +1,4 @@
-module github.com/gobwas/ws
+module github.com/simonmittag/ws
 
 go 1.15
 
